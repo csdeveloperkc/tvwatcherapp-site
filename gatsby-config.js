@@ -6,7 +6,10 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `TVWatcher App`,
+        siteTitleAlt: `TVWatcher App`,
+        siteURL: `https://tvwatcherappsite.gtsb.io/`,
+        siteDescription: `PWA for details about tv shows. Shows air date/time, description, episode details. Built using TVDB api`,
+        author: `Kevin Coleman`
   },
   plugins: [
     {
@@ -43,7 +46,7 @@ module.exports = {
       options: {
         name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
         short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+          description: `PWA for details about tv shows. Shows air date/time, description, episode details. Built using TVDB api`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
