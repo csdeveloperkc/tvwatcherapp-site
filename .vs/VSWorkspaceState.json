@@ -1,17 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\content",
     "\\content\\pages",
     "\\content\\pages\\favorites",
     "\\content\\posts",
     "\\content\\posts\\airs",
     "\\src",
     "\\src\\@lekoarts",
-    "\\src\\@lekoarts\\gatsby-theme-minimal-blog",
-    "\\src\\@lekoarts\\gatsby-theme-minimal-blog\\components"
+    "\\src\\@lekoarts\\gatsby-theme-minimal-blog"
   ],
-  "SelectedNode": "\\src\\@lekoarts\\gatsby-theme-minimal-blog\\components\\footer.tsx",
+  "SelectedNode": "\\src\\@lekoarts\\gatsby-theme-minimal-blog\\components",
   "PreviewInSolutionExplorer": false
 }

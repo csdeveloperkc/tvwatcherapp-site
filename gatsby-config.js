@@ -16,7 +16,9 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
-      options: {
+       options: {
+           name: `TVWatcher App`,
+           showThemeAuthor: false,
         navigation: [
           {
             title: 'Favorites',
