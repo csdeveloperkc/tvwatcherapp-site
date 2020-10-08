@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\content\\pages"
+    "\\content\\pages\\about",
+    "\\content\\pages\\favorites",
+    "\\src",
+    "\\src\\@lekoarts",
+    "\\src\\@lekoarts\\gatsby-theme-minimal-blog",
+    "\\src\\@lekoarts\\gatsby-theme-minimal-blog\\texts",
+    "\\static"
   ],
-  "SelectedNode": "\\content\\pages\\favorites",
+  "SelectedNode": "\\src\\@lekoarts\\gatsby-theme-minimal-blog\\texts\\hero.mdx",
   "PreviewInSolutionExplorer": false
 }
