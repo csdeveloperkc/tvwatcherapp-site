@@ -5,7 +5,8 @@ require(`dotenv`).config({
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
-  siteMetadata: {
+    siteMetadata: {
+      siteTitle: `TVWatcher App`,
         siteTitleAlt: `TVWatcher App`,
         siteURL: `https://tvwatcherappsite.gtsb.io/`,
         siteDescription: `PWA for details about tv shows. Shows air date/time, description, episode details. Built using TVDB api`,
